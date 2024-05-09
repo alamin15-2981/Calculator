@@ -11,7 +11,7 @@ body {
     justify-content: center;
     align-items: center;
 
-    background-image: url(/images/8fccb3ce8ef99294836a46d607407738.gif);
+    background-image: url("./../images/8fccb3ce8ef99294836a46d607407738.gif");
     background-size: 400px 600px;
     background-position: center right;
     background-blend-mode: darken;
